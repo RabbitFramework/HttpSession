@@ -1,0 +1,17 @@
+{
+    "name": "rabbitphp/http-session",
+    "description": "Http session component of the framework",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaktus",
+            "email": "kaktus@rabbitphp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rabbit\\Http\\Session\\": "src"
+        }
+    }
+}
